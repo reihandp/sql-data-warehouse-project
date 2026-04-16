@@ -158,5 +158,5 @@ BEGIN
     END CATCH
 END;
 
--- Menjalankan Stored Procedure
+-- Stored Procedure Execution
 EXEC bronze.load_bronze;
