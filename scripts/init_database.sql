@@ -31,7 +31,7 @@ BEGIN
 END;
 GO
 
--- Create Databases 'DawaWarehouse'
+-- Create Databases 'DataWarehouse'
 CREATE DATABASE DataWarehouse;
 
 -- Use the new database
