@@ -1,11 +1,19 @@
 # Data Warehouse and Analytics Project
 
-Welcome to the **Data Warehouse and Analytics Project** repository!
+Welcome to the Data Warehouse and Analytics Project repository.
 
-This project demonstrates a comprehensive data warehousing and analytics solution, starting from building a data warehouse to generating actionable insights.  
-Designed as a portfolio project, it highlights industry best practices in data engineering and data analytics.
+This project shows how to build a data warehouse and perform data analytics using the Medallion Architecture (Bronze, Silver, Gold layers). It is created as a portfolio project to demonstrate basic concepts in data engineering and analytics.
+
+This project is inspired by a tutorial from the YouTube channel DataWithBaraa:
+[SQL Data Warehouse from Scratch](https://www.youtube.com/watch?v=9GVqKuTVANE).
 
 ---
+## Data Architecture 🗺️
+[](url)
+
+
+
+
 
 ## 📌 Project Requirements
 
