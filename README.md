@@ -9,7 +9,7 @@ This project is inspired by a tutorial from the YouTube channel DataWithBaraa:
 
 ---
 ## Data Architecture 🗺️
-[](url)
+![Data Architecture](docs/data_architecture.png)
 
 
 
