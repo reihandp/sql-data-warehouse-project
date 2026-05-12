@@ -3,6 +3,8 @@
 ## 📖 Overview
 The **Gold Layer** represents the final stage of the Medallion Architecture. It contains business-level data structured for high-performance analytical reporting and BI tools. This layer follows a **Star Schema** design, consisting of dimension and fact tables to support key business metrics.
 
+### 🧩 Data Model Diagram
+![Data Model Diagram](/docs/data_model.png)
 ---
 
 ## 🏗️ Data Dictionary
