@@ -1,21 +1,12 @@
 /*
-========================================================
+===============================================================================
 Create Database and Schemas
-========================================================
-
-Script Purpose:
-This script creates a new database named 'DataWarehouse'.
-If the database already exists, it will be dropped and recreated.
-
-Additionally, the script creates three schemas:
-- bronze
-- silver
-- gold
-
-WARNING:
-Running this script will permanently delete the existing 'DataWarehouse' database.
-All data will be lost. Make sure you have proper backups before executing.
-========================================================
+===============================================================================
+Description:
+    This script creates the 'DataWarehouse' database and initializes the 
+    Medallion Architecture layers (Bronze, Silver, Gold).
+    WARNING: This script will drop the existing 'DataWarehouse' database.
+===============================================================================
 */
 
 USE master;
