@@ -2,7 +2,7 @@
 
 Welcome to the Data Warehouse and Analytics Project.
 
-Proyek ini mensimulasikan tantangan nyata di industri ritel, di mana data sering kali terfragmentasi di berbagai sistem seperti ERP (Sales) dan CRM (Customer). **Tujuan utama dari proyek ini** adalah membangun sebuah *Data Warehouse* yang terintegrasi menggunakan **Medallion Architecture (Bronze, Silver, Gold)** untuk menciptakan *Single Source of Truth* guna mendukung pengambilan keputusan bisnis berbasis data.
+Proyek ini mensimulasikan tantangan nyata di industri ritel, di mana data sering kali [terfragmentasi](https://kbbi.portal.id/arti-terfragmentasi) di berbagai sistem seperti ERP (Sales) dan CRM (Customer). **Tujuan utama dari proyek ini** adalah membangun sebuah *Data Warehouse* yang terintegrasi menggunakan **Medallion Architecture (Bronze, Silver, Gold)** untuk menciptakan *Single Source of Truth* guna mendukung pengambilan keputusan bisnis berbasis data.
 
 ---
 ## 🗺️ Data Architecture
