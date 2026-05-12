@@ -9,9 +9,8 @@ Description:
         - Dimension tables
         - Fact table
 
-    Data is sourced from the Silver layer and transformed into 
-    business-ready datasets for analytics and reporting.
-
+    Data is sourced from the Silver layer and modeled into analytical datasets 
+    to support BI reporting and business intelligence.
 Notes:
     - Views are used instead of physical tables for flexibility.
     - Each view applies light transformations and joins across domains.
