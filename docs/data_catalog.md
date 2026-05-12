@@ -7,8 +7,8 @@ The **Gold Layer** represents the final stage of the Medallion Architecture. It 
 
 ## 🏗️ Data Dictionary
 
-### 1. 👤 gold.dim_customers
-**Purpose:** Stores enriched customer details, including demographic and geographic data for segmentation and analysis.
+### 1. 👤 Dimension: Customers (`gold.dim_customers`)
+**Business Value:** Enables customer segmentation and demographic analysis (e.g., sales performance by country or gender).
 
 | Column Name | Data Type | Description |
 | :--- | :--- | :--- |
@@ -25,8 +25,8 @@ The **Gold Layer** represents the final stage of the Medallion Architecture. It 
 
 ---
 
-### 2. 📦 gold.dim_products
-**Purpose:** Provides a comprehensive view of products, including their attributes, categories, and pricing details.
+### 2. 📦 Dimension: Products (`gold.dim_products`)
+**Business Value:** Allows for product performance tracking, inventory categorization, and pricing strategy analysis.
 
 | Column Name | Data Type | Description |
 | :--- | :--- | :--- |
@@ -44,8 +44,8 @@ The **Gold Layer** represents the final stage of the Medallion Architecture. It 
 
 ---
 
-### 3. 💰 gold.fact_sales
-**Purpose:** Centralized fact table storing transactional sales data for business performance metrics.
+### 3. 💰 Fact: Sales (`gold.fact_sales`)
+**Business Value:** The core transactional table used to calculate Revenue, Quantity Sold, and Order Fullfilment metrics.
 
 | Column Name | Data Type | Description |
 | :--- | :--- | :--- |
